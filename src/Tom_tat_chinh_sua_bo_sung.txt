@@ -1,0 +1,5 @@
+Những chỉnh sửa, bổ sung mà nhóm đã thực hiện:
+1. Sửa lỗi chỉ mục ở phần tài liệu tham khảo trong báo cáo. 
+2. Phân tích thêm insight về giọng nhạc và các thuộc tính âm nhạc.
+3. Xây dựng thêm hệ thống gợi ý âm nhạc
+4. Chỉnh sửa slides.
